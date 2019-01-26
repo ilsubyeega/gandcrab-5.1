@@ -1,2 +1,3 @@
 # gandcrab-5.1
-Encrypted Files and txt
+First of all, i just encrypted in my test vm(which was for virus testor).
+Here is file of encrypted files, text, screenshot, webpage.
